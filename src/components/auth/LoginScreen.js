@@ -48,7 +48,18 @@ export const LoginScreen = () => {
                 >
                     Create new account
                 </Link>
+                
             </form>
+            <br />
+            <hr />
+            <hr />
+            <br />
+            <Link
+                to='/'
+                className='link mt-5 btn btn-primary'     
+            >
+                Home
+            </Link>
         </>
     )
 }

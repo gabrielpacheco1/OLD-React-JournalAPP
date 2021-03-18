@@ -19,7 +19,7 @@ export const NoteScreen = () => {
                 ></textarea>
 
                 <div className='notes__image'>
-                    <img src='https://pbs.twimg.com/profile_images/640666088271839233/OTKlt5pC.jpg'/>
+                    <img src='https://pbs.twimg.com/profile_images/640666088271839233/OTKlt5pC.jpg' alt='landscape'/>
                 </div>
             </div>
         </div>
